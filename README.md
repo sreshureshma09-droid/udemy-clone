@@ -18,6 +18,9 @@ Footer with links, copyright, and logo
 
 Fully responsive layout using CSS Flexbox and Grid
 
+![Alt text]([images/udemy.PNG](https://github.com/sreshureshma09-droid/udemy-clone/commit/c6bf4e0208bb2db16708454c46b46bbcd24aae77))
+
+
 Tech Stack
 
 HTML5
