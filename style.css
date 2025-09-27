@@ -75,13 +75,10 @@ body {
 
 .recommend__container {
     display: flex;
-    /* display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(150px, 1fr)); */
     flex-wrap: wrap;
     justify-content: space-around;
-    margin-top: 10px;.
+    margin-top: 10px;
     
-
 }
 
 .course-card {
@@ -90,7 +87,7 @@ body {
 
 .course-card img {
     width: 100%;
-    height: 50%
+    height: 50%;
 }
 
 .topics {
